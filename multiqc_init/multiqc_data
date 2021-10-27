@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	PE2	/home/diivanik/hw1/fastqc/PE2_fastqc.zip
+FastQC	all_sections	MP2	/home/diivanik/hw1/fastqc/MP2_fastqc.zip
+FastQC	all_sections	MP1	/home/diivanik/hw1/fastqc/MP1_fastqc.zip
+FastQC	all_sections	PE1	/home/diivanik/hw1/fastqc/PE1_fastqc.zip
